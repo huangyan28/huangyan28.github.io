@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a first year Master's student at [Tsinghua University](https://www.tsinghua.edu.cn/), with a Bachelor's degree in Electronic Information from [Wuhan University](https://www.whu.edu.cn/). My research interests include multimodal models, robotics manipulation, and embodied intelligence.
 
-I am very fortunate to be advised by [Prof. Wenbo Ding](https://ssr-group.net/research/) from the SSR Lab at the Department of Automation, Tsinghua University.
+I am very fortunate to be advised by [Prof. Wenbo Ding](https://ssr-group.net/research/) from the SSR Group, Tsinghua University.
 
 You can find my CV here: [Huang Yan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
