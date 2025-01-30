@@ -50,7 +50,7 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Icra 2025</div>
+      <div class="badge">ICRA 2025</div>
       <img src='images/Chemistry3D.png' alt="sym" width="100%">
     </div>
   </div>
@@ -64,11 +64,11 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
   </div>
 </div>
 
-<!-- Publication 2: Icra 2025 -->
+<!-- Publication 2: ICRA 2025 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Icra 2025</div>
+      <div class="badge">ICRA 2025</div>
       <img src='images/Hand_held_Transparent.png' alt="sym" width="100%">
     </div>
   </div>
