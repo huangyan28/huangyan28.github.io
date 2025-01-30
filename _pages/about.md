@@ -24,8 +24,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 📖 Personal Profile
-Yan Huang received his B.S. degree in Electronic Information Engineering from \href{https://en.whu.edu.cn/}{Wuhan University} in 2024. He is currently pursuing his M.S. degree in Data Science and Information Technology at the Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). His research focuses on robot manipulation and embodied AI, under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN) in the SSR Group.
+# 📖 About me
+Yan Huang received his B.S. degree in Electronic Information Engineering from [Wuhan University](https://www.whu.edu.cn/en/) in 2024. He is currently pursuing his M.S. degree in Data Science and Information Technology at the Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). His research focuses on robot manipulation and embodied AI, under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN) in the SSR Group.
 
 # 📝 Research Interests
 Yan Huang's academic and research endeavors are centered around the cutting-edge domains of:
