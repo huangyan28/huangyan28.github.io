@@ -95,7 +95,7 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
       <li>Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback</li>
       <li>Shilong Mu*, Runze Zhao*, Zenan Lin, <strong>Yan Huang</strong>, Shoujie Li, Chenchang Li, Xiao-Ping Zhang, Wenbo Ding†.</li>
       <li><i>ICRA</i> 2024, Yokohama, Japan</li>
-      <li><a href="https://arxiv.org/abs/2402.05725">Link</a> | <a href="/assets/PDF/Dual-modal%20Tactile%20E-skin.pdf" target="_blank">PDF</a> | <a href="https://sitesgoogle.com/view/touch-e-skin/" target="_blank">Project page</a></li>
+      <li><a href="https://arxiv.org/abs/2402.05725">Link</a> | <a href="/assets/PDF/2402.05725v1.pdf" target="_blank">PDF</a> | <a href="https://sitesgoogle.com/view/touch-e-skin/" target="_blank">Project page</a></li>
     </ul>
   </div>
 </div>
