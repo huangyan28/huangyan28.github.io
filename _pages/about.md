@@ -46,6 +46,25 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 
 # 📝 Publications
 
+<!-- Publication 1: JFR -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">JFR (Front Cover)</div>
+      <img src='images/JFR_Cover.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation</li>
+      Yan Huang, Jiawei Zhang, Ran Yu, Shoujie Li, Wenbo Ding
+      <li><strong>Yan Huang*<strong>, Jiawei Zhang,*, Ran Yu , Shoujie Li†, Wenbo Ding†.</li>
+      <li><i>Journal of Field Robotics (Front Cover)</i></li>
+      <li><a href="https://onlinelibrary.wiley.com/doi/10.1002/rob.22548?af=R">Link</a></li>
+    </ul>
+  </div>
+</div>
+
 <!-- Publication 1: ICRA 2025 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -82,7 +101,79 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
   </div>
 </div>
 
-<!-- Publication 3: ICRA 2024 -->
+<!-- Publication 3: IROS 2025 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IROS 2025</div>
+      <img src='images/air_touch.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>AirTouch: A Low-Cost Versatile Visuotactile Feedback System for Enhanced Robotic Teleoperation</li>
+      <li>Shoujie Li*, Xingting Li*, <strong>Yan Huang*</strong>, Ken Jiankun Zheng, Ran Yu, Xueqian Wang, Wenbo Ding†.</li>
+      <li><i>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, Hangzhou, China</li>
+      <li><a href="#">Link</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- Publication 4: IROS 2025 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IROS 2025</div>
+      <img src='images/ultra_tac.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>UltraTac: Integrated Ultrasound-Augmented Visuotactile Sensor for Enhanced Robotic Perception</li>
+      <li>Junhao Gong*, KIT-WA SOU*, Shoujie Li*, Changqing Guo, <strong>Yan Huang</strong>, Chuqiao Lyu, Ziwu Song, Wenbo Ding†.</li>
+      <li><i>2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, Hangzhou, China</li>
+      <li><a href="https://arxiv.org/abs/2508.20982">Link</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- Publication 5: Nature Sensors -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Nature Sensors</div>
+      <img src='images/supertac.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>Pigeon-eye-inspired Multimodal High-resolution Tactile Sensor for Advanced Robotic Interaction</li>
+      <li>Shoujie Li*, Tong Wu*, Jianle Xu*, <strong>Yan Huang</strong>, Zongwen Zhang, Hongfa Zhao, Qinghao Xu, Zihan Wang, Linqi Ye, Yang Yang, Chuqiao Lyu, Shilong Mu, Xueqian Wang, Zhaoqian Xie, Changsheng Wu, Xinge Yu, Wenbo Ding†.</li>
+      <li><i>Nature Sensors</i></li>
+      <li><a href="#">Link</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- Publication 6: arXiv -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under review</div>
+      <img src='images/electroalamrobot.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>ALARMbot: Autonomous Laboratory Safety Inspection and Operable Hazard Intervention Robot Enabled by Foundation Models</li>
+      <li>Shoujie Li*, Yushan Liu*, Xintao Chao*, <strong>Yan Huang</strong>, Xiao-Ping Zhang, Wenbo Ding†.</li>
+      <li><i>Project</i></li>
+      <li><a href="https://alarm-bot.github.io">Link</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- Publication 7: ICRA 2024 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
