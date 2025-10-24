@@ -39,7 +39,19 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 <span class='anchor' id='-News'></span>
 # 🔥 News
 
+[2025/10] Huang Yan was invited to participate in the **Peking University Greater Bay Area Doctoral Forum**!
+
+<!-- [2025/10] Huang Yan had one paper published in **Nature Sensors**! -->
+
+[2025/06] Huang Yan had two papers accepted by **IROS 2025** (International Conference on Intelligent Robots and Systems)!
+
+[2024/03] Huang Yan had one paper published as **Front Cover** in **Journal of Field Robotics (JFR)**!
+
+<!-- [2025/01] Huang Yan's project ALARMbot featured on **arXiv**! -->
+
 [2024/12] Huang Yan had two papers accepted by **ICRA 2025** (International Conference on Robotics and Automation)!
+
+
 
 
 <span class='anchor' id='-Publications'></span>
@@ -83,23 +95,6 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
   </div>
 </div>
 
-<!-- Publication 2: ICRA 2025 -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICRA 2025</div>
-      <img src='images/Hand_held_Transparent.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text'>
-    <ul>
-      <li>Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover</li>
-      <li>Ran Yu*, Haixin Yu*, Shoujie Li*, <strong>Yan Huang</strong>, Ziwu Song, Wenbo Ding†.</li>
-      <li><i>2025 IEEE International Conference on Robotics and Automation (ICRA)</i>, Atlanta, USA</li>
-      <li><a href="https://arxiv.org/abs/2408.14997">Link</a></li>
-    </ul>
-  </div>
-</div>
 
 <!-- Publication 3: IROS 2025 -->
 <div class='paper-box'>
@@ -191,3 +186,20 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
   </div>
 </div>
 
+<!-- Publication 2: ICRA 2025 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICRA 2025</div>
+      <img src='images/Hand_held_Transparent.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>Depth Restoration of Hand-Held Transparent Objects for Human-to-Robot Handover</li>
+      <li>Ran Yu*, Haixin Yu*, Shoujie Li*, <strong>Yan Huang</strong>, Ziwu Song, Wenbo Ding†.</li>
+      <li><i>2025 IEEE International Conference on Robotics and Automation (ICRA)</i>, Atlanta, USA</li>
+      <li><a href="https://arxiv.org/abs/2408.14997">Link</a></li>
+    </ul>
+  </div>
+</div>
