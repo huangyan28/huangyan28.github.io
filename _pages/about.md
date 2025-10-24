@@ -69,8 +69,7 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
   <div class='paper-box-text'>
     <ul>
       <li>SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation</li>
-      Yan Huang, Jiawei Zhang, Ran Yu, Shoujie Li, Wenbo Ding
-      <li><strong>Yan Huang*<strong>, Jiawei Zhang,*, Ran Yu , Shoujie Li†, Wenbo Ding†.</li>
+      <li><strong>Yan Huang*</strong>, Jiawei Zhang*, Ran Yu*, Shoujie Li†, Wenbo Ding†.</li>
       <li><i>Journal of Field Robotics (Front Cover)</i></li>
       <li><a href="https://onlinelibrary.wiley.com/doi/10.1002/rob.22548?af=R">Link</a></li>
     </ul>
