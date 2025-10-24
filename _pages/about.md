@@ -59,7 +59,7 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 # 📝 Publications
 
 <!-- Publication 1: JFR -->
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">JFR (Front Cover)</div>
@@ -75,7 +75,7 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
       <li><a href="https://onlinelibrary.wiley.com/doi/10.1002/rob.22548?af=R">Link</a></li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <!-- Publication 1: ICRA 2025 -->
 <div class='paper-box'>
@@ -155,7 +155,7 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under review</div>
-      <img src='images/electroalamrobot.png' alt="sym" width="100%">
+      <img src='images/alamrobot.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
