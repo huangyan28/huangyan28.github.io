@@ -63,7 +63,7 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
   <div class='paper-box-image'>
     <div>
       <div class="badge">JFR (Front Cover)</div>
-      <img src='images/JFR_Cover.png' alt="sym" width="50%">
+      <img src='images/JFR_Cover.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
