@@ -58,6 +58,26 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 
 # 📝 Publications
 
+
+<!-- Publication 1: JFR -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">JFR (Front Cover)</div>
+      <img src='images/UmiGen.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>UMIGen: A Unified Framework for Egocentric Point Cloud Generation and
+ Cross-Embodiment Robotic Imitation Learning</li>
+      <li><strong>Yan Huang*</strong>, Shoujie Li*, Xingting Li, Wenbo Ding†.</li>
+      <li><i>Arxiv</i></li>
+      <li><a href="http://arxiv.org/abs/2511.09302">Link</a></li>
+    </ul>
+  </div>
+</div>
+
 <!-- Publication 1: JFR -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -69,7 +89,7 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
   <div class='paper-box-text'>
     <ul>
       <li>SimLiquid: A Simulation-Based Liquid Perception Pipeline for Robot Liquid Manipulation</li>
-      <li><strong>Yan Huang*</strong>, Jiawei Zhang*, Ran Yu*, Shoujie Li†, Wenbo Ding†.</li>
+      <li><strong>Yan Huang*</strong>, Jiawei Zhang*, Ran Yu, Shoujie Li†, Wenbo Ding†.</li>
       <li><i>Journal of Field Robotics (Front Cover)</i></li>
       <li><a href="https://onlinelibrary.wiley.com/doi/10.1002/rob.22548?af=R">Link</a></li>
     </ul>
