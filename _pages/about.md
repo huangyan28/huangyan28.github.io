@@ -68,7 +68,7 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">JFR (Front Cover)</div>
+      <div class="badge">Arxiv</div>
       <img src='images/UmiGen.png' alt="sym" width="100%">
     </div>
   </div>
