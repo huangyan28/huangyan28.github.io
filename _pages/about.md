@@ -39,11 +39,16 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 <span class='anchor' id='-News'></span>
 # 🔥 News
 
+[2025/10] was selected as an **Outstanding Speaker** in the **AI for Robotics** sub-forum of **Peking University Greater Bay Area Doctoral Forum**!
+
 [2025/10] Huang Yan was invited to participate in the **Peking University Greater Bay Area Doctoral Forum**!
 
 <!-- [2025/10] Huang Yan had one paper published in **Nature Sensors**! -->
+[2025/10] Huang Yan had one paper published in **Nature Sensors**!
 
 [2025/06] Huang Yan had two papers accepted by **IROS 2025** (International Conference on Intelligent Robots and Systems)!
+
+[2025/01] Huang Yan's project ALARMbot featured on **arXiv**!
 
 [2024/03] Huang Yan had one paper published as **Front Cover** in **Journal of Field Robotics (JFR)**!
 
@@ -59,7 +64,7 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 # 📝 Publications
 
 
-<!-- Publication 1: JFR -->
+<!-- Publication 1: UMIGen -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
