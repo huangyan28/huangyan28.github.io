@@ -25,27 +25,24 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 About me
-Yan Huang received his B.S. degree in Electronic Information Engineering from [Wuhan University](https://www.whu.edu.cn) in 2024. He is currently pursuing his M.S. degree in Data Science and Information Technology at the Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). His research focuses on robot manipulation and embodied AI, under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN) in the SSR Group. He has interned at [X2Robot](https://www.x2robot.com/en) and [AgiBot](https://www.agibot.com/), working on vision-language-action (VLA) models and embodied AI for robotics.
+Yan Huang received his B.S. degree in Electronic Information Engineering from [Wuhan University](https://www.whu.edu.cn) in 2024. He is currently pursuing his M.S. degree in Data Science and Information Technology at the Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). His research focuses on robot manipulation and embodied AI, under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN) in the SSR Group.
+
+<span class='anchor' id='-research-interests'></span>
 
 # 📝 Research Interests
 Yan Huang's academic and research endeavors are centered around the cutting-edge domains of:
 - **Manipulation**
-- **Embodied AI**
+- **Vision-Language-Action (VLA) Models**
+- **Ego-Centric Perception and Learning**
+- **Generative Manipulation Models**
 
 Feel free to reach out for collaboration or discussions about research ideas.
 
 Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 
-<span class='anchor' id='-News'></span>
+<span class='anchor' id='-news'></span>
 # 🔥 News
 
-[2025/11] Huang Yan was awarded the **First-Class Scholarship at Tsinghua University**.
-
-[2025/10] Huang Yan was selected as an **Outstanding Speaker** in the **AI for Robotics** sub-forum of **Peking University Greater Bay Area Doctoral Forum**!
-
-[2025/10] Huang Yan was invited to participate in the **Peking University Greater Bay Area Doctoral Forum**!
-
-<!-- [2025/10] Huang Yan had one paper published in **Nature Sensors**! -->
 [2025/10] Huang Yan had one paper published in **Nature Sensors**!
 
 [2025/06] Huang Yan had two papers accepted by **IROS 2025** (International Conference on Intelligent Robots and Systems)!
@@ -54,14 +51,12 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 
 [2024/03] Huang Yan had one paper published as **Front Cover** in **Journal of Field Robotics (JFR)**!
 
-<!-- [2025/01] Huang Yan's project ALARMbot featured on **arXiv**! -->
-
 [2024/12] Huang Yan had two papers accepted by **ICRA 2025** (International Conference on Robotics and Automation)!
 
 
 
 
-<span class='anchor' id='-Publications'></span>
+<span class='anchor' id='-publications'></span>
 
 # 📝 Publications
 
@@ -229,3 +224,30 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
     </ul>
   </div>
 </div>
+
+<span class='anchor' id='-honors-and-awards'></span>
+
+# 🏅 Honors and Awards
+
+- **2025**, First-Class Scholarship, Tsinghua University
+- **2025**, Outstanding Speaker, AI for Robotics sub-forum, Peking University Greater Bay Area Doctoral Forum
+
+<span class='anchor' id='-educations'></span>
+
+# 🎓 Educations
+
+- **2024 - Present**, M.S. in Data Science and Information Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Smart Sensing and Robotics Group [(SSR Group)](https://ssr-group.net/index.html)
+- **2020 - 2024**, B.S. in Electronic Information Engineering, [Wuhan University](https://www.whu.edu.cn), 2024
+
+<span class='anchor' id='-invited-talks'></span>
+
+# 🎤 Invited Talks
+
+- **2025**, Peking University Greater Bay Area Doctoral Forum, AI for Robotics sub-forum
+
+<span class='anchor' id='-internships'></span>
+
+# 💼 Internships
+
+- **[X2Robot](https://www.x2robot.com/en)**, vision-language-action (VLA) models for robotics
+- **[AgiBot](https://www.agibot.com/)**, embodied AI for robotics
