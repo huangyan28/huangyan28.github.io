@@ -31,7 +31,6 @@ Yan Huang received his B.S. degree in Electronic Information Engineering from [W
 
 # 📝 Research Interests
 Yan Huang's academic and research endeavors are centered around the cutting-edge domains of:
-- **Manipulation**
 - **Vision-Language-Action (VLA) Models**
 - **Ego-Centric Perception and Learning**
 - **Generative Manipulation Models**
