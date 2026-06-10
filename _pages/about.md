@@ -42,6 +42,12 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
+[2025/11] Huang Yan was awarded the **First-Class Scholarship at Tsinghua University**.
+
+[2025/10] Huang Yan was selected as an **Outstanding Speaker** in the **AI for Robotics** sub-forum of **Peking University Greater Bay Area Doctoral Forum**!
+
+[2025/10] Huang Yan was invited to participate in the **Peking University Greater Bay Area Doctoral Forum**!
+
 [2025/10] Huang Yan had one paper published in **Nature Sensors**!
 
 [2025/06] Huang Yan had two papers accepted by **IROS 2025** (International Conference on Intelligent Robots and Systems)!
