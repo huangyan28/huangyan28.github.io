@@ -42,6 +42,8 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
+[2026/08] Huang Yan led the team to win the **Gold Medal** in the **Library Scene Competition** at the **2nd World Humanoid Robot Games**!
+
 [2025/11] Huang Yan was awarded the **First-Class Scholarship at Tsinghua University**.
 
 [2025/10] Huang Yan was selected as an **Outstanding Speaker** in the **AI for Robotics** sub-forum of **Peking University Greater Bay Area Doctoral Forum**!
@@ -65,6 +67,23 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 
 # 📝 Publications
 
+<!-- Publication: UniReflex -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv</div>
+      <img src='images/UniReflex.png' alt="UniReflex" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>UniReflex: Plug-and-Play Force Control for Pretrained Generative Policies via Fast-Slow Reflex</li>
+      <li><strong>Yan Huang*</strong>, Shoujie Li*, Ziwu Song, Wenbo Ding†.</li>
+      <li><i>Arxiv</i></li>
+      <li><a href="https://arxiv.org/abs/2608.17432">arXiv</a> | <a href="https://unireflex.github.io/" target="_blank">Project page</a></li>
+    </ul>
+  </div>
+</div>
 
 <!-- Publication 1: UMIGen -->
 <div class='paper-box'>
