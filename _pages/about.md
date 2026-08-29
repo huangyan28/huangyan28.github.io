@@ -25,7 +25,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 About me
-Yan Huang received his B.S. degree in Electronic Information Engineering from [Wuhan University](https://www.whu.edu.cn) in 2024. He is currently pursuing his M.S. degree in Data Science and Information Technology at the Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). His research focuses on robot manipulation and embodied AI, under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN) in the SSR Group.
+Yan Huang received his B.S. degree in Electronic Information Engineering from [Wuhan University](https://www.whu.edu.cn) in 2024. He is currently pursuing his M.S. degree in Data Science and Information Technology at the Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN). He has interned at [X2Robot](https://www.x2robot.com/en) on vision-language-action (VLA) models and at [AgiBot](https://www.agibot.com/) on embodied AI. His research focuses on robot manipulation and embodied AI.
 
 <span class='anchor' id='-research-interests'></span>
 
@@ -60,8 +60,13 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
 
 [2024/12] Huang Yan had two papers accepted by **ICRA 2025** (International Conference on Robotics and Automation)!
 
+<span class='anchor' id='-honors-and-awards'></span>
 
+# 🏅 Honors and Awards
 
+- **2026**, Gold Medal, Library Scene Competition, 2nd World Humanoid Robot Games
+- **2025**, First-Class Scholarship, Tsinghua University
+- **2025**, Outstanding Speaker, AI for Robotics sub-forum, Peking University Greater Bay Area Doctoral Forum
 
 <span class='anchor' id='-publications'></span>
 
@@ -249,29 +254,49 @@ Email: [huang-y24@mails.tsinghua.edu.cn](mailto:huang-y24@mails.tsinghua.edu.cn)
   </div>
 </div>
 
-<span class='anchor' id='-honors-and-awards'></span>
+<span class='anchor' id='-media'></span>
 
-# 🏅 Honors and Awards
+# 📰 Media
 
-- **2025**, First-Class Scholarship, Tsinghua University
-- **2025**, Outstanding Speaker, AI for Robotics sub-forum, Peking University Greater Bay Area Doctoral Forum
-
-<span class='anchor' id='-educations'></span>
-
-# 🎓 Educations
-
-- **2024 - Present**, M.S. in Data Science and Information Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Smart Sensing and Robotics Group [(SSR Group)](https://ssr-group.net/index.html)
-- **2020 - 2024**, B.S. in Electronic Information Engineering, [Wuhan University](https://www.whu.edu.cn), 2024
-
-<span class='anchor' id='-invited-talks'></span>
-
-# 🎤 Invited Talks
-
-- **2025**, Peking University Greater Bay Area Doctoral Forum, AI for Robotics sub-forum
-
-<span class='anchor' id='-internships'></span>
-
-# 💼 Internships
-
-- **[X2Robot](https://www.x2robot.com/en)**, vision-language-action (VLA) models for robotics
-- **[AgiBot](https://www.agibot.com/)**, embodied AI for robotics
+<div class="media-grid">
+  <a class="media-card" href="https://mp.weixin.qq.com/s/ja1Ge2YPPF7Tv2SotmCg6Q" target="_blank" rel="noopener noreferrer">
+    <div class="media-card-image">
+      <img src="images/media-sigs-whrg-2026.png" alt="清华SIGS：黄炎率队夺得图书馆场景赛冠军">
+      <span class="media-card-badge">WeChat</span>
+    </div>
+    <div class="media-card-body">
+      <p class="media-card-meta">清华SIGS数据与信息研究院 · 2026/08/29</p>
+      <p class="media-card-title">第二届世界人形机器人运动会落幕，我院硕士生黄炎率队夺得图书馆场景赛冠军</p>
+    </div>
+  </a>
+  <a class="media-card" href="https://mp.weixin.qq.com/s/G3TnIkxFcjnnpepQuwmGvw" target="_blank" rel="noopener noreferrer">
+    <div class="media-card-image">
+      <img src="images/media-lumina-unireflex-2026.png" alt="Lumina：首个即插即用机器人主动力控框架 UniReflex">
+      <span class="media-card-badge">WeChat</span>
+    </div>
+    <div class="media-card-body">
+      <p class="media-card-meta">Lumina社区 · 2026/08/19</p>
+      <p class="media-card-title">首个“即插即用”机器人主动力控框架｜揭贴纸成功率从30%飙至90%</p>
+    </div>
+  </a>
+  <a class="media-card" href="https://mp.weixin.qq.com/s/7jT9Ky6An6pRrn31VbR8fw" target="_blank" rel="noopener noreferrer">
+    <div class="media-card-image">
+      <img src="images/media-aima-waic-2026.jpg" alt="智元AIMA：WAIC After Party 回顾">
+      <span class="media-card-badge">WeChat</span>
+    </div>
+    <div class="media-card-body">
+      <p class="media-card-meta">智元AIMA开发者 · 2026/07/21</p>
+      <p class="media-card-title">WAIC After Party 回顾 | 生态共建正在成为具身智能的下一个议题</p>
+    </div>
+  </a>
+  <a class="media-card" href="https://news.pku.edu.cn/xwzh/265376c75bb14aab8ce2d652937bf202.htm" target="_blank" rel="noopener noreferrer">
+    <div class="media-card-image">
+      <img src="images/media-pku-aiforscience-2025.jpg" alt="北京大学：第二届粤港澳大湾区AI for Science博士生学术论坛">
+      <span class="media-card-badge">PKU News</span>
+    </div>
+    <div class="media-card-body">
+      <p class="media-card-meta">北京大学新闻网 · 2025/11/13</p>
+      <p class="media-card-title">第二届“粤港澳”大湾区AI for Science博士生学术论坛举行</p>
+    </div>
+  </a>
+</div>

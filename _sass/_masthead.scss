@@ -44,10 +44,13 @@
 }
 
 .masthead__menu-home-item {
-  @include breakpoint($medium) {
+  display: none !important;
+}
+
+@include breakpoint($medium) {
+  .masthead__menu-home-item {
     display: block !important;
   }
-  display: none !important;
 }
 
 .masthead__menu-item {
